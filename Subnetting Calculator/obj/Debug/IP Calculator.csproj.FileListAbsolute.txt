@@ -1,0 +1,13 @@
+F:\All Simister\SIX Semister\DCN\DCN Project\Subnetting-Calculator\Subnetting Calculator\bin\Debug\Subnetting Calculator.exe.config
+F:\All Simister\SIX Semister\DCN\DCN Project\Subnetting-Calculator\Subnetting Calculator\bin\Debug\Subnetting Calculator.exe
+F:\All Simister\SIX Semister\DCN\DCN Project\Subnetting-Calculator\Subnetting Calculator\bin\Debug\Subnetting Calculator.pdb
+F:\All Simister\SIX Semister\DCN\DCN Project\Subnetting-Calculator\Subnetting Calculator\bin\Debug\itextsharp.dll
+F:\All Simister\SIX Semister\DCN\DCN Project\Subnetting-Calculator\Subnetting Calculator\bin\Debug\itextsharp.xml
+F:\All Simister\SIX Semister\DCN\DCN Project\Subnetting-Calculator\Subnetting Calculator\obj\Debug\IP Calculator.csprojAssemblyReference.cache
+F:\All Simister\SIX Semister\DCN\DCN Project\Subnetting-Calculator\Subnetting Calculator\obj\Debug\Subnetting_Calculator.Form1.resources
+F:\All Simister\SIX Semister\DCN\DCN Project\Subnetting-Calculator\Subnetting Calculator\obj\Debug\Subnetting_Calculator.Properties.Resources.resources
+F:\All Simister\SIX Semister\DCN\DCN Project\Subnetting-Calculator\Subnetting Calculator\obj\Debug\IP Calculator.csproj.GenerateResource.cache
+F:\All Simister\SIX Semister\DCN\DCN Project\Subnetting-Calculator\Subnetting Calculator\obj\Debug\IP Calculator.csproj.CoreCompileInputs.cache
+F:\All Simister\SIX Semister\DCN\DCN Project\Subnetting-Calculator\Subnetting Calculator\obj\Debug\IP Calculator.csproj.CopyComplete
+F:\All Simister\SIX Semister\DCN\DCN Project\Subnetting-Calculator\Subnetting Calculator\obj\Debug\Subnetting Calculator.exe
+F:\All Simister\SIX Semister\DCN\DCN Project\Subnetting-Calculator\Subnetting Calculator\obj\Debug\Subnetting Calculator.pdb
