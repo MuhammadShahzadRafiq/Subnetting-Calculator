@@ -1,0 +1,2 @@
+# Subnetting-Calculator # SubnettingCalculator # Subnetting # Calculator
+This is a Subnet Calculator which divides an IP network into subnetworks by calculating network address, subnet mask, broadcast address and host IP address range.This calculator returns a variety of information regarding Internet Protocol version 4 (IPv4)  subnets including possible network addresses, usable host ranges, subnet mask, and IP class, among others.
